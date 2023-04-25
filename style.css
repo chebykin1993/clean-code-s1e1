@@ -1,4 +1,4 @@
-body {
+.page {
   background-color: #f8f8f8;
   color: #333;
   font-family: Lato, sans-serif;
@@ -41,7 +41,7 @@ body {
 
 .wrapper {
   display: flex;
-  margin-top: 20px
+  margin-top: 20px;
 }
 
 ul {
@@ -129,7 +129,7 @@ li > label {
 }
 
 li > input[type="text"] {
-  width: 226px  
+  width: 226px;
 }
 
 .delete img {
